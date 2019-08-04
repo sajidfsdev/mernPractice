@@ -1,1 +1,7 @@
 Hello this file will contains some recepies
+
+The recepies list are 
+
+1. Kheer
+2. chicken fried.
+3. Spagetties
